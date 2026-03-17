@@ -24,11 +24,9 @@ Aplicación web para administrar órdenes, inventario y perfiles de usuario. El 
 ## 2. Clonado del proyecto
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Aleottau/gestion-ordenes-java.git
 cd gestion-ordenes-java
 ```
-
-Sustituye `<URL_DEL_REPOSITORIO>` por la ruta real del repositorio.
 
 ---
 
